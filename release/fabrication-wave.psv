@@ -1,0 +1,8 @@
+scan|order_id|district|material|sheets|priority|due_on|available_before|decision|available_after
+1|SG-103|North|ALPHA|5|5|2099-04-04|8|selected|3
+2|SG-101|Downtown|ALPHA|4|5|2099-04-05|3|waiting|3
+3|SG-104|East|CHARLIE|3|4|2099-04-02|4|selected|1
+4|SG-107|Uptown|ALPHA|7|4|2099-04-06|3|waiting|3
+5|SG-102|Harbor|BRAVO|5|3|2099-04-03|6|selected|1
+6|SG-108|Market|CHARLIE|4|3|2099-04-03|1|waiting|1
+7|SG-105|West|BRAVO|2|2|2099-04-01|1|waiting|1
