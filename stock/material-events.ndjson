@@ -1,0 +1,13 @@
+{"event_id":"ME-001","material":"ALPHA","posted_on":"2099-03-20","kind":"receipt","sheets":10,"revision":1}
+{"event_id":"ME-002","material":"ALPHA","posted_on":"2099-03-28","kind":"use","sheets":2,"revision":1}
+{"event_id":"ME-003","material":"BRAVO","posted_on":"2099-03-22","kind":"receipt","sheets":8,"revision":1}
+{"event_id":"ME-004","material":"BRAVO","posted_on":"2099-03-30","kind":"use","sheets":2,"revision":1}
+{"event_id":"ME-005","material":"CHARLIE","posted_on":"2099-03-25","kind":"receipt","sheets":5,"revision":1}
+{"event_id":"ME-006","material":"CHARLIE","posted_on":"2099-03-31","kind":"use","sheets":1,"revision":1}
+{"event_id":"ME-007","material":"ALPHA","posted_on":"2099-04-02","kind":"receipt","sheets":50,"revision":1}
+{"event_id":"ME-008","material":"DELTA","posted_on":"2099-03-15","kind":"receipt","sheets":9,"revision":1}
+{"event_id":"ME-003","material":"BRAVO","posted_on":"2099-03-22","kind":"receipt","sheets":6,"revision":2}
+{"event_id":"ME-003","material":"BRAVO","posted_on":"2099-03-22","kind":"receipt","sheets":8,"revision":2}
+{"event_id":"ME-009","material":"ALPHA","posted_on":"2099-03-29","kind":"use","sheets":true,"revision":1}
+{"event_id":"bad","material":"ALPHA","posted_on":"2099-03-29","kind":"receipt","sheets":2,"revision":1}
+not json

@@ -1,0 +1,3 @@
+Copperline allocation reference
+Snapshot: 2099-04-01
+Open orders are scanned once in priority order. Waiting orders do not reserve stock.
